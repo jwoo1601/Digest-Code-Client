@@ -1,0 +1,14 @@
+{
+    "include": ["src/**/*.ts"],
+    "compilerOptions": {
+      "baseUrl": "src",
+      "outDir": "./src/ts-compiled/",
+      "sourceMap": true,
+      "module": "ES6",
+      "moduleResolution": "Node",
+      "target": "ES5",
+      "allowJs": true,
+      "allowSyntheticDefaultImports": true,
+      "resolveJsonModule": true,
+    }
+  }

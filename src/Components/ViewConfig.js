@@ -1,5 +1,5 @@
-import React from 'react';
-import { makeStyles, createStyles } from '@material-ui/core/styles';
+import React from 'components/node_modules/react';
+import { makeStyles, createStyles } from 'components/node_modules/@material-ui/core/styles';
 
 const useStyles = makeStyles(theme => createStyles({
     mobileOnly: {

@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import 'typeface-roboto';
 
 import * as serviceWorker from './serviceWorker';
-import InjectUtils from './Misc/InjectUtils';
+import InjectUtils from './mmisc/InjectUtils';
 import App from './App';
 
 InjectUtils();
